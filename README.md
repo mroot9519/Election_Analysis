@@ -26,5 +26,11 @@ Uncovered the following insights into a Colorado local election.
     -Raymon Anthony Doane came in third with 11,606 or 3.1% of the vote.
     
 ## Challenge Overview
+
+Challenge outlines some voting metrics for the three counties in the election data. The inquiry was regarding the number of voters per county, the percentage of voters in the overall election per county and which county had the highest voter turnout.
     
 ## Challenge Summary
+County by voter turnout:
+1. Denver: 82.8% (306,855)
+2. Jefferson: 10/5% (38855)
+3. Arapahoe: 6.7% (24802)
